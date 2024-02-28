@@ -73,8 +73,15 @@ header {
   font-weight: lighter;
   margin-top: 0;
 }
+.emoji {
+  width: 120px;
+  height: 120px;
+  display: block;
+  margin: 0 auto;
+}
 .current-temperature {
   font-size: 50px;
+  margin-top: 0;
 }
 .celsius {
   font-size: 25px;
