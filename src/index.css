@@ -28,7 +28,7 @@ header {
 }
 
 .search-form-input {
-  background-color: #f7e7e7;
+  background-color: #f7e9e9;
   border: none;
   border-radius: 6px;
   width: 80%;
@@ -38,10 +38,22 @@ header {
 
 .search-form-button {
   background-color: #afb2ce;
-  padding: 15px 27px;
+  padding: 15px 20px;
   border: none;
   border-radius: 6px;
   color: white;
   font-size: 15px;
   margin-left: 5px;
+}
+
+footer {
+  border-top: 1px solid #afb2ce;
+  padding: 30px;
+  text-align: center;
+  font-size: 13px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+a {
+  color: #afb2ce;
 }
