@@ -73,11 +73,12 @@ header {
   font-weight: lighter;
   margin-top: 0;
 }
-.emoji {
+.icon {
   width: 120px;
   height: 120px;
   display: block;
   margin: 0 auto;
+  padding-bottom: 0;
 }
 .current-temperature {
   font-size: 50px;
