@@ -9,6 +9,9 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+  font-style: normal;
 }
 
 .meteo-app {
