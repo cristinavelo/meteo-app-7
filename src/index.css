@@ -14,8 +14,8 @@ body {
 .meteo-app {
   background: #f3f2f5;
   max-width: 700px;
-  margin: 30px auto;
-  padding: 30px;
+  margin: 10px auto;
+  padding: 50px;
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
   border-radius: 15px;
 }
