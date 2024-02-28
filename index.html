@@ -15,12 +15,13 @@
   <body>
     <div class="meteo-app">
       <header>
-        <form class="search-form">
+        <form class="search-form" id="search-form">
           <input
             type="search"
             placeholder="Enter a city.."
             required
             class="search-form-input"
+            id="search-form-input"
           />
           <input type="submit" value="Search" class="search-form-button" />
         </form>
@@ -28,7 +29,7 @@
       <main>
         <div class="meteo-app-data">
           <div class="main-meteo">
-            <h3 class="city">Paris</h3>
+            <h3 class="city" id="city">Paris</h3>
             <h3 class="day">
               <span class="current-day">Tuesday</span>,
               <span class="current-hour">14:20</span>
