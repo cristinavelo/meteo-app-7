@@ -65,8 +65,11 @@ header {
   font-size: 15px;
   margin-top: 0;
 }
-.temperature {
+.current-temperature {
   font-size: 50px;
+}
+.celsius {
+  font-size: 25px;
 }
 footer {
   border-top: 1px solid #afb2ce;
