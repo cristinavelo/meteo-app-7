@@ -5,7 +5,7 @@ body {
     rgb(247, 202, 201) 44.9%,
     rgb(145, 168, 208) 96.1%
   );
-  height: 100vh;
+  height: 150svh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -97,4 +97,9 @@ footer {
 
 a {
   color: #afb2ce;
+}
+
+.weather-forecast {
+  margin-top: 20px;
+  text-align: center;
 }
