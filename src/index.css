@@ -101,5 +101,14 @@ a {
 
 .weather-forecast {
   margin-top: 20px;
+  margin-bottom: 20px;
   text-align: center;
+}
+
+.weather-forecast-day {
+  opacity: 0.5;
+}
+
+.temp-min {
+  opacity: 0.5;
 }
