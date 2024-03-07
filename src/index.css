@@ -103,6 +103,7 @@ a {
   margin-top: 20px;
   margin-bottom: 20px;
   text-align: center;
+  display: inline-block;
 }
 
 .weather-forecast-day {
